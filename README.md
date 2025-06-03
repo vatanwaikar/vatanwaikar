@@ -39,8 +39,6 @@
         <ul>
             <li>SQL</li>
             <li>MySQL</li>
-            <li>Oracle</li>
-            <li>PostgreSQL</li>
         </ul>
         <li>:dart:Tools</li>
         <ul>
@@ -49,7 +47,6 @@
             <li>STS (Spring Tool Suite)</li>
             <li>Postman</li>
             <li>Tomcat Server</li>
-            <li>CI/CD</li>
         </ul>
         <li>:dart:Course Work</li>
         <ul>
